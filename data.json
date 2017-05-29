@@ -8,7 +8,7 @@
     },
     {
       "_id":      2,
-      "name": "JSNApy",
+      "name": "JSNAPy",
       "language":"Python",
       "html_url":"https://github.com/Juniper/jsnapy",
       "description": "Use Junos Snapshot Administrator to capture and validate the operational status of a device, review operational changes to the device, create configuration files that define the scope of snapshots, and customize the evaluation criteria for the snapshot data."
@@ -23,7 +23,7 @@
     {
       "_id":      4,
       "name": "OpenNTI",
-      "language":"Python",
+      "language":"",
       "html_url":"https://github.com/Juniper/open-nti",
       "description":"OpenNTI is a container packaged with all tools needed to collect and visualize time series data from network devices. "
     },
